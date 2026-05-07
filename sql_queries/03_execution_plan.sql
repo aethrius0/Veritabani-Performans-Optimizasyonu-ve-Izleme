@@ -3,8 +3,7 @@
 
 USE AdventureWorks2019;
 
--- Bu sorguyu CTRL+M ile çalıştır ve Execution Plan sekmesine bak
--- Table Scan ve Index Scan olan yerleri not al
+--Execution Plan, sorgumuzun arka planda nasıl çalıştığını gösterir. Hangi adımların yavaş olduğunu buradan anlarız.
 
 -- Test Sorgusu 1: Yüksek maliyetli JOIN sorgusu
 SELECT 
