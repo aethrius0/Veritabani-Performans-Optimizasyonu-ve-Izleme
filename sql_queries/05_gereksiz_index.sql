@@ -1,4 +1,4 @@
--- ADIM 6: Gereksiz İndeksleri Bulma ve Kaldırma
+-- ADIM 5: Gereksiz İndeksleri Bulma ve Kaldırma
 -- BLM4522 - Proje 1: Performans Optimizasyonu
 
 USE AdventureWorks2019;
