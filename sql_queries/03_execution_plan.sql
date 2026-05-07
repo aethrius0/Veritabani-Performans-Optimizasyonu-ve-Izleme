@@ -3,7 +3,7 @@
 
 USE AdventureWorks2019;
 
---Execution Plan, sorgumuzun arka planda nasıl çalıştığını gösterir. Hangi adımların yavaş olduğunu buradan anlarız.
+--Execution Plan, sorgumuzun arka planda nasıl çalıştığını gösterir. Hangi adımların yavaş olduğunu buradan anlarız
 
 -- Test Sorgusu 1: Yüksek maliyetli JOIN sorgusu
 SELECT 
