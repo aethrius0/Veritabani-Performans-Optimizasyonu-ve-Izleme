@@ -53,14 +53,14 @@ optimizasyon tekniklerinin uygulanmasını kapsamaktadır.
 - Sorguların CPU, Reads, Duration değerleri izlendi
 
 ## Dosya Yapısı
-├── adim2_dmv_sorgulari.sql
-├── adim3_yavas_sorgular.sql
-├── adim4_execution_plan.sql
-├── adim5_index_yonetimi.sql
-├── adim6_gereksiz_index.sql
-├── adim7_sorgu_iyilestirme.sql
-├── adim8_roller.sql
-├── adim9_profiler_sorgulari.sql
+├── adim1_dmv_sorgulari.sql
+├── adim2_yavas_sorgular.sql
+├── adim3_execution_plan.sql
+├── adim4_index_yonetimi.sql
+├── adim5_gereksiz_index.sql
+├── adim6_sorgu_iyilestirme.sql
+├── adim7_roller.sql
+├── adim8_profiler_sorgulari.sql
 └── README.md
 
 ## Sonuçlar
